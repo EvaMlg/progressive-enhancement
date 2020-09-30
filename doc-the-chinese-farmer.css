@@ -1,1 +1,91 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
 
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    word-spacing: 10%;
+    color: navy;
+}
+
+a {
+    color: blue ;
+
+}
+
+a:hover {
+    color: red ;
+
+}
+
+a:visited {
+    color: rebeccapurple ;
+
+}
+
+body {
+    max-width: 90%;
+    margin: 5%;
+    background-color: honeydew;
+}
+
+blockquote {
+    max-width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 160%;
+    background-color: grey;
+    border-left: 3px solid black;
+    padding-left: 30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-style: italic;
+}
+
+.farmer {
+
+    border-left: 3px solid green;
+
+}
+
+.farmers {
+
+    border-left: 3px solid red;
+
+}
+
+h1 {
+    background-color: yellow;
+}
+
+.good {
+    text-transform: capitalize;
+    color: green;
+}
+
+.bad {
+    text-transform: capitalize;
+    color : red;
+}
+
+.greyrow {
+    background-color: grey;
+
+}
+
+.whiterow {
+    background-color: white;
+}
+
+img {
+    width: 500px;
+    float: left;
+    margin:30px;
+}
+
+.story {
+    clear: both;
+}
